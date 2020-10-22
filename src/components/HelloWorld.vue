@@ -12,7 +12,7 @@
     </ul>
    <h3>Install to Android</h3>
     <ul>
-      
+       <li><a href=" https://twilight-firefly-8997.tudouvideo.workers.dev/android.apk" target="_blank" rel="noopener">Download</a></li>   
     </ul>
     <h3>Install to Mac</h3>
     <ul>
