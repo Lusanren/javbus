@@ -1,17 +1,19 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="./assets/logo.png" style="width: 200px;height: 200px;">
+    <HelloWorld msg="Hi,Welcome!"/>
+	<Download url="http://www.baidu.com" />
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import Download from './components/Download.vue'
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    HelloWorld,
+	Download
   }
 }
 </script>
