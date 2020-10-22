@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" style="width: 200px;height: 200px;">
     <HelloWorld msg="Hi,Welcome!"/>
-	<Download url="https://twilight-firefly-8997.tudouvideo.workers.dev/android.apk" />
+	
   </div>
 </template>
 
