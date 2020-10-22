@@ -14,7 +14,14 @@
     <ul>
       
     </ul>
-   
+    <h3>Install to Mac</h3>
+    <ul>
+      <li><a href="javascript:return false;" target="_blank" rel="noopener">No download ,Testting</a></li>
+    </ul>
+    <h3>Install to Windows</h3>
+    <ul>
+      <li><a href="javascript:return false;" target="_blank" rel="noopener">No download ,Testting</a></li>
+    </ul>
   </div>
 </template>
 
